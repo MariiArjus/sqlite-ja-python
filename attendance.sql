@@ -1,0 +1,10 @@
+insert into MOCK_DATA (users_id, session_id, status) values (4, 27, 'olemas');
+insert into MOCK_DATA (users_id, session_id, status) values (19, 6, 'puudu');
+insert into MOCK_DATA (users_id, session_id, status) values (18, 22, 'puudu');
+insert into MOCK_DATA (users_id, session_id, status) values (8, 27, 'olemas');
+insert into MOCK_DATA (users_id, session_id, status) values (24, 13, 'olemas');
+insert into MOCK_DATA (users_id, session_id, status) values (3, 4, 'olemas');
+insert into MOCK_DATA (users_id, session_id, status) values (6, 16, 'puudu');
+insert into MOCK_DATA (users_id, session_id, status) values (12, 20, 'olemas');
+insert into MOCK_DATA (users_id, session_id, status) values (2, 28, 'olemas');
+insert into MOCK_DATA (users_id, session_id, status) values (26, 1, 'puudu');

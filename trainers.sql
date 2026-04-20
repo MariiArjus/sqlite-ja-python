@@ -1,0 +1,10 @@
+insert into MOCK_DATA (full_name, job, contact) values ('Julianna Withringten', 'joga', 'jwithringten0@stanford.edu');
+insert into MOCK_DATA (full_name, job, contact) values ('Philippine Stoeckle', 'korvpall', 'pstoeckle1@twitter.com');
+insert into MOCK_DATA (full_name, job, contact) values ('Flor Local', 'joga', 'flocal2@netlog.com');
+insert into MOCK_DATA (full_name, job, contact) values ('Ogdon Lineker', 'korvpall', 'olineker3@livejournal.com');
+insert into MOCK_DATA (full_name, job, contact) values ('Doralyn Dadley', 'korvpall', 'ddadley4@washingtonpost.com');
+insert into MOCK_DATA (full_name, job, contact) values ('Roosevelt Mulder', 'joga', 'rmulder5@squidoo.com');
+insert into MOCK_DATA (full_name, job, contact) values ('Jordan McGrey', 'pilates', 'jmcgrey6@redcross.org');
+insert into MOCK_DATA (full_name, job, contact) values ('Dorene Wrack', 'pilates', 'dwrack7@macromedia.com');
+insert into MOCK_DATA (full_name, job, contact) values ('Kacey McSharry', 'joga', 'kmcsharry8@tiny.cc');
+insert into MOCK_DATA (full_name, job, contact) values ('Freddy Hincks', 'pilates', 'fhincks9@earthlink.net');
